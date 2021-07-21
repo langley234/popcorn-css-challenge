@@ -1,0 +1,26 @@
+{
+  "name": "popcorn-css-challenge",
+  "version": "0.0.1",
+  "description": "sdi lesson",
+  "main": "index.html",
+  "dependencies": {
+    "ive": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langley234/popcorn-css-challenge.git"
+  },
+  "keywords": [
+    "lessons"
+  ],
+  "author": "Mike Langenbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langley234/popcorn-css-challenge/issues"
+  },
+  "homepage": "https://github.com/langley234/popcorn-css-challenge#readme"
+}

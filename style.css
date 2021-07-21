@@ -3,3 +3,145 @@ Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+.main-body {
+  height: auto;
+}
+.top-box {
+    background-color: #FFDBAA;
+    display:flex;
+  }
+
+  .header-buttons {
+    display:flex;
+    margin-left:auto;
+    margin-right:30px;
+  }
+
+  .company-logo {
+      padding-left:30px;    
+  }   
+
+.top-page-button {
+  background-color: #805215;
+  border: none;
+  color: white;
+  padding: 0px, 0px;
+  margin-right: 35px;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  width: 100px;
+  height: 50px;
+  display: block;
+}
+
+.three-boxes {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    padding:0px;
+    text-align: center;
+}
+  .bottom-chunk {
+      display: flex;
+      flex-wrap: wrap;
+      background-color: #D4A76A;
+      height: auto;
+      width: auto;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .one-of-three-box {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      background-color: white;
+      border-style: outset;
+      box-shadow: 5px, 110px, #000000;
+      margin-right: 45px;
+      margin-left: 45px;
+      margin-top: 35px;
+      width: 300px;
+      height: 200px;
+  }
+
+  .one-of-three-box-h {
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    word-wrap: normal;
+    height: 20px;
+  }
+  .one-of-three-box-p {
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-top: auto;
+      margin-bottom: auto;
+      text-align: left;
+  }
+
+  .one-of-three-box-btn {
+    background-color: #805215;
+    border: none;
+    color: white;
+    padding: 0px, 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    width: 200px;
+    height: 50px;
+    display: block;
+  }
+  .bottom-box {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-style: outset;
+    background-color: white;
+    width: 100%;
+    height: auto;
+  }
+
+  .bottom-box-header {
+    margin-top: 10px;
+    margin-bottom: auto;
+    text-align: center;
+    word-wrap: normal;
+    height: 20px;
+  }
+
+  .bottom-box-p {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+    width: auto;
+    height: auto;
+  }
+
+  .bottom-box-button {
+    background-color: #805215;
+    border: none;
+    color: white;
+    padding: 0px, 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+  }
+
